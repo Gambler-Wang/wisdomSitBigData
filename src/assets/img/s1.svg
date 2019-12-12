@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 364 93" style="enable-background:new 0 0 364 93;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#244985;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#3CEBEA;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#3CEBEA;}
+	.st3{fill:#244985;}
+</style>
+<line class="st0" x1="55" y1="88" x2="9" y2="88"/>
+<line class="st0" x1="182.5" y1="88" x2="65" y2="88"/>
+<line class="st0" x1="310" y1="88" x2="192.5" y2="88"/>
+<path class="st0" d="M320,5h1.5C344.42,5,363,23.58,363,46.5v0c0,22.92-18.58,41.5-41.5,41.5H320"/>
+<line class="st1" x1="192.5" y1="5" x2="310" y2="5"/>
+<line class="st1" x1="65" y1="5" x2="182.5" y2="5"/>
+<line class="st1" x1="9" y1="5" x2="55" y2="5"/>
+<circle class="st2" cx="5" cy="5" r="5"/>
+<circle class="st2" cx="60" cy="5" r="5"/>
+<circle class="st2" cx="187.5" cy="5" r="5"/>
+<circle class="st2" cx="315" cy="5" r="5"/>
+<circle class="st3" cx="5" cy="88" r="5"/>
+<circle class="st3" cx="60" cy="88" r="5"/>
+<circle class="st3" cx="187.5" cy="88" r="5"/>
+<circle class="st3" cx="315" cy="88" r="5"/>
+</svg>
